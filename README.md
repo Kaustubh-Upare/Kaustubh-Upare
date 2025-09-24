@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<a>
+  ![](https://komarev.com/ghpvc/?username=Kaustubh-Upare
+</a>
 <!--
 **Kaustubh-Upare/Kaustubh-Upare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
