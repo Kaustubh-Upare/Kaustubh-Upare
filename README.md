@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Arjun-Ingole&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" /> </div>[2][1]<!--
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Arjun-Ingole&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" /> </div>
+<!--
 **Kaustubh-Upare/Kaustubh-Upare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
