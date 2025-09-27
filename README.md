@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋
+I'm Kaustubh Upare,I'm a 21 year old college dropout.
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Kaustubh-Upare&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" /> </div>
 <!--
