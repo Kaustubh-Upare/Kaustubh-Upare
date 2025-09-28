@@ -1,7 +1,7 @@
 ## Hi 👋
 I'm Kaustubh Upare,I'm a 21 year old college dropout.
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Kaustubh-Upare&label=Profile%20views&color="#2d2e2d"&style=for-the-badge" alt="Profile views" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Kaustubh-Upare&label=Profile%20views&color=grey&style=for-the-badge" alt="Profile views" /> </div>
 <!--
 **Kaustubh-Upare/Kaustubh-Upare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
